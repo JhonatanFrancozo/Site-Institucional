@@ -9,12 +9,12 @@
 
 body{
     color: #fff;
-    background-color: #000000;
+    background-color: #32b9cd;
 }
 
 .header{
     width: 100%;
-    border-bottom: 2px solid #32b9cd; /* borda */
+    border-bottom: 5px solid #18a7bd; /* borda */
     height: 100px;
 }
 
@@ -39,9 +39,15 @@ body{
 /* BANNER */
 
 .banner{
-    height: 300px;
+    height: 500px;
     background-image: url("imagens/bg-jelly-fish-para_outras_pags.png");
 
+}
+
+.branco{
+    height: 103px;
+    background-color: #91f0ff;
+    border-bottom: 5px solid #6aebff; /* borda */
 }
 
 .banner .container{
@@ -56,7 +62,7 @@ font-size: 36px;
 /* SOCIAL */
 
 .social{
-    height: 400px;
+    height: 500px;
     background-color: #32b9cd;
     padding: 20px 0;
 }
